@@ -8,6 +8,7 @@ const Header = () => {
 			<div className="relative flex items-center h-10 cursor-pointer my-auto">
 				<Image
 					src="https://wlululululua.github.io/data/assets/airbnb/logo.png"
+					alt="logo"
 					layout="fill"
 					objectFit="contain"
 					objectPosition="left"
